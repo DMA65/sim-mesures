@@ -1,0 +1,7 @@
+# Serveur MQTT configurations
+mqtt:
+  broker: "broker.emqx.io" 
+  port: 1883
+  username: "emqx"
+  password: "public"
+
